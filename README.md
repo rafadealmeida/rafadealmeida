@@ -34,3 +34,10 @@
     <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafadealmeida&layout=compact&langs_count=5&theme=dracula&hide_langs_below=1"/>
     <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=rafadealmeida&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </div>
+
+  ## 📞 Contatos:
+
+  <div>
+    <a href = "mailto:rafa.almeida.dev@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/rafa-almeida-dev/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  </div>
