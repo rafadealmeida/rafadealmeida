@@ -3,7 +3,7 @@
 
 - 🧑🏻‍💻 Técnico em Desenvolvimento de Sistemas **pelo [Senac](https://www.df.senac.br/)** (🚧 Previsão de termino 02/2025)
 - 🖥️ Formação Front-End pela **[Alura](https://cursos.alura.com.br/degree/certificate/b6e31f58-fc67-4cad-92db-fe0d6d1d3c4b)**
-- 🖌️ Conhecimentos básicos de UI Desgin pela **[Alura](https://www.alura.com.br/)**
+- 🖌️ Conhecimentos em UI Desgin pela **[Alura](https://www.alura.com.br/)**
 - 💼 Trabalahndo como Desenvolvedor Front End na [CleverSystems](https://cleversystems.com.br/)
 
   ## 🚀 Minhas Skills
