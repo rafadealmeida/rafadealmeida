@@ -1,14 +1,15 @@
 ## 👋 Olá, meu nome é <strong>Rafael Almeida!</strong> 
 <h3> Sou um apaixonado por tecnologia, programação, games e música! 💻🧑🏻‍💻🎮🎵</h3>
 
-- 🧑🏻‍💻 Técnico em Desenvolvimento de Sistemas **pelo [Senac](https://www.df.senac.br/)** (🚧 Previsão de termino 02/2025)
+- 🧑🏻‍💻 Técnico em Desenvolvimento de Sistemas **pelo [Senac](https://www.df.senac.br/)** (🚧 Previsão de termino 07/2025)
 - 🖥️ Formação Front-End pela **[Alura](https://cursos.alura.com.br/degree/certificate/b6e31f58-fc67-4cad-92db-fe0d6d1d3c4b)**
 - 🖌️ Conhecimentos em UI Desgin pela **[Alura](https://www.alura.com.br/)**
-- 💼 Trabalahndo como Desenvolvedor Front End na [CleverSystems](https://cleversystems.com.br/)
+- 💼 Trabalhando como Desenvolvedor Front End na **[Sea Tecnologia](https://www.seatecnologia.com.br/)**
+- 📱 Atuando como desenvolvedor mobile com React Native e Expo
 
   ## 🚀 Minhas Skills
   <p align='left'>
-    <img loading="lazy" src="https://skillicons.dev/icons?i=js,ts,react,nextjs,materialui,vite,html,css,wordpress,electron,git,github"/>  
+    <img loading="lazy" src="https://skillicons.dev/icons?i=js,ts,react,nextjs,materialui,vite,html,css,wordpress,electron,git,github,gitlab,firebase,styledcomponents"/>  
   </p>
 
   ## 🛠️Ferramentas extras
@@ -26,7 +27,7 @@
   ## 📚 Atualmente estudando
 
    <p align="left">
-      <img src="https://skillicons.dev/icons?i=java" />
+      <img src="https://skillicons.dev/icons?i=java,mint,linux,prisma,tailwind" />
   </p>
 
   <div>
